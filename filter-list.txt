@@ -1,3 +1,10 @@
+! Title: Infinite Feed Filter List
+! Description: |
+!   Filters infinite feeds such as Facebook's newsfeed.
+! License: https://github.com/AussieGuy0/infinite-feed-filter-list/blob/main/LICENSE
+! Homepage: https://github.com/AussieGuy0/infinite-feed-filter-list
+! Forums: https://github.com/AussieGuy0/infinite-feed-filter-list/issues
+
 ! https://www.youtube.com
 !! Related sidebar
 www.youtube.com###related
