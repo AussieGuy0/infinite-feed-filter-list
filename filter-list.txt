@@ -1,0 +1,25 @@
+! https://www.youtube.com
+!! Related sidebar
+www.youtube.com###related
+!! Home recommended
+www.youtube.com##:matches-path(/^/$/) ytd-browse
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:has-text(Shorts)
+!! Trending button
+www.youtube.com##ytd-guide-entry-renderer > a[title="Trending"]
+
+! https://www.linkedin.com
+!! Main feed
+www.linkedin.com##:matches-path(/feed) .scaffold-layout__main
+
+! https://www.facebook.com
+!! Main newsfeed
+www.facebook.com##div.x1hc1fzr.x1unhpq9.x6o7n8i
+
+! https://www.reddit.com
+!! Main feed
+www.reddit.com##:matches-path(/^/$/) #AppRouter-main-content
+
+
+! https://old.reddit.com
+!! Main feed
+old.reddit.com##body.listing-page #siteTable
