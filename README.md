@@ -14,7 +14,6 @@ A filter list for ublock orign to block distracting infinite feeds.
   - Shorts recommendations
   - Sidebar recommendations
 
-## How to Install
+## Install
 1. Have uBlock Origin installed as a browser extension.
-2. Press
-   [here](abp:subscribe?location=https%3A%2F%2Fgithub.com%2FAussieGuy0%2Finfinite-feed-filter-list&title=Infinite%20Feed%20Filter%20List)
+2. Click <a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2FAussieGuy0%2Finfinite-feed-filter-list%2Fmain%2Ffilter-list.txt&amp;title=Infinite%20Feed%20Filter%20List">here</a> and press 'subscribe'. 
