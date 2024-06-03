@@ -1,6 +1,6 @@
 # Infinite Feed Filter List
 
-A filter list for ublock orign to block distracting infinite feeds.
+A filter list for uBlock origin to block distracting infinite feeds.
 
 ## What does it filter?
 - Facebook
@@ -16,4 +16,4 @@ A filter list for ublock orign to block distracting infinite feeds.
 
 ## Install
 1. Have uBlock Origin installed as a browser extension.
-2. Click <a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2FAussieGuy0%2Finfinite-feed-filter-list%2Fmain%2Ffilter-list.txt&amp;title=Infinite%20Feed%20Filter%20List">here</a> and press 'subscribe'. 
+2. Click <a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2FAussieGuy0%2Finfinite-feed-filter-list%2Fmain%2Ffilter-list.txt&amp;title=Infinite%20Feed%20Filter%20List">here</a> and press 'subscribe'.
