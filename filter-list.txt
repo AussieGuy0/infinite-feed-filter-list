@@ -22,10 +22,13 @@ www.linkedin.com##main[aria-label="Main Feed"]
 !! Main newsfeed
 www.facebook.com##div.x1hc1fzr.x1unhpq9.x6o7n8i
 
+! https://m.facebook.com/
+!! main feed
+m.facebook.com##:matches-path(/^/$/) div.m > div.m[data-tracking-duration-id]
+
 ! https://www.reddit.com
 !! Main feed
 www.reddit.com##:matches-path(/^/$/) #AppRouter-main-content
-
 
 ! https://old.reddit.com
 !! Main feed
